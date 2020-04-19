@@ -1,0 +1,22 @@
+{
+"products" : [{"id":1,"name":"Grenadier, common","category":"Orange"},
+{"id":2,"name":"Rufous-collared sparrow","category":"Blue"},
+{"id":3,"name":"Red lava crab","category":"Purple"},
+{"id":4,"name":"Rattlesnake, eastern diamondback","category":"Indigo"},
+{"id":5,"name":"Steenbok","category":"Turquoise"},
+{"id":6,"name":"Cat, cape wild","category":"Purple"},
+{"id":7,"name":"Nuthatch, red-breasted","category":"Khaki"},
+{"id":8,"name":"White-necked raven","category":"Orange"},
+{"id":9,"name":"Ostrich","category":"Blue"},
+{"id":10,"name":"Nuthatch, red-breasted","category":"Purple"},
+{"id":11,"name":"Fox, savanna","category":"Purple"},
+{"id":12,"name":"Horned rattlesnake","category":"Maroon"},
+{"id":13,"name":"Mongoose, small indian","category":"Fuscia"},
+{"id":14,"name":"Bulbul, black-eyed","category":"Aquamarine"},
+{"id":15,"name":"Tenrec, tailless","category":"Mauv"},
+{"id":16,"name":"Pintail, bahama","category":"Fuscia"},
+{"id":17,"name":"Baleen whale","category":"Yellow"},
+{"id":18,"name":"Yellow-rumped siskin","category":"Crimson"},
+{"id":19,"name":"Lapwing, southern","category":"Yellow"},
+{"id":20,"name":"Plains zebra","category":"Khaki"}]
+}
